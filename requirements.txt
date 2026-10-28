@@ -1,0 +1,16 @@
+# Collecte (scraping)
+selenium
+dateparser
+
+# Analyse des données
+pandas
+matplotlib
+wordcloud
+
+# Analyse de texte
+textblob
+textblob-fr
+langdetect
+
+# Notebook
+jupyter
